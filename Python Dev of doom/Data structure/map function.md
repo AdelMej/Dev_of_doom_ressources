@@ -8,7 +8,7 @@
 
 **Syntax:**
 ```python
-`map(function, iterable)`
+map(function, iterable)
 ```
 ---
 
