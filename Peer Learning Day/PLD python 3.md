@@ -190,7 +190,8 @@ it will only affect that specific object and not it's class
 	'__static_attributes__': ('__name',),
     '__dict__': <attribute '__dict__' of 'Dog' objects>,
     '__weakref__': <attribute '__weakref__' of 'Dog' objects>,
-    '__doc__': None, 'age': 14
+    '__doc__': None,
+    'age': 14
 }
 ```
 the dict of a class contain all it's attributes and methods including the inherited ones
