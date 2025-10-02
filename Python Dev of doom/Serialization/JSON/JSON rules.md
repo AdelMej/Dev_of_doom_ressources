@@ -23,13 +23,13 @@
     - ❌ `{"a": 1, "b": 2, }`
 #### 5. **Whitespace is allowed but ignored**
 
-    - ✅ Both `{"a":1}` and
+- ✅ Both `{"a":1}` and
 ```css
         {
            "a": 1 
         }
 ```
-        are valid.
+are valid.
 
 #### 6. **Numbers must be valid JSON numbers**
     
