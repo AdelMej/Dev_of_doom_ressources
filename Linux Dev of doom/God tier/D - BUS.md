@@ -31,13 +31,13 @@ Method:        GetCPUUsage()
 
 ## ⚙️ **3️⃣ D-Bus CLI tools**
 
-|Command|What it does|
-|---|---|
-|`busctl list`|List services on the system bus|
-|`busctl tree org.freedesktop.NetworkManager`|Show objects under a service|
-|`busctl introspect org.freedesktop.NetworkManager /org/freedesktop/NetworkManager`|See interfaces and methods|
-|`busctl call`|Call a D-Bus method manually|
-|`busctl monitor`|Spy on D-Bus messages (debug gold)|
+| Command                                                                            | What it does                       |
+| ---------------------------------------------------------------------------------- | ---------------------------------- |
+| `busctl list`                                                                      | List services on the system bus    |
+| `busctl tree org.freedesktop.NetworkManager`                                       | Show objects under a service       |
+| `busctl introspect org.freedesktop.NetworkManager /org/freedesktop/NetworkManager` | See interfaces and methods         |
+| `busctl call`                                                                      | Call a D-Bus method manually       |
+| `busctl monitor`                                                                   | Spy on D-Bus messages (debug gold) |
 
 Example:
 

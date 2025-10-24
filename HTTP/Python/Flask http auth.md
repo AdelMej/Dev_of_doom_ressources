@@ -138,3 +138,4 @@ def custom_error():
 | ---------- | ---------------------------- | -------------------------- | ------------------------------------------------ |
 | Basic Auth | `@auth.login_required`       | `@auth.verify_password`    | `Authorization: Basic base64(username:password)` |
 | Token Auth | `@token_auth.login_required` | `@token_auth.verify_token` | `Authorization: Bearer <token>`                  |
+|            |                              |                            |                                                  |
