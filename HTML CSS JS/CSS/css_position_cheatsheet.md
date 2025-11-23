@@ -45,6 +45,7 @@
 .container {
   position: relative; /* anchor for absolute children */
 }
+
 .box2 {
   position: absolute;
   top: 0;
