@@ -214,7 +214,3 @@ btn.addEventListener("click", () => alert("Clicked!"));
 - Avoid global variables  
 - Use arrow functions for callbacks  
 - Handle errors with `try/catch`
-
----
-
-**© mejrissi — concise JS essentials**
